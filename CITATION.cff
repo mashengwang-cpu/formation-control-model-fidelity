@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Cite the exact commit or release used; this record contains research software and data."
+title: "Controller rankings and module benefits in heterogeneous formation control: Actuation models and equal-budget tuning"
+type: software
+version: "2026.09.09"
+date-released: "2026-09-09"
+repository-code: "https://github.com/mashengwang-cpu/formation-control-model-fidelity"
+license: MIT
+authors:
+  - family-names: Ma
+    given-names: Fuliang
+  - family-names: Dang
+    given-names: Yuzhen
+  - family-names: Ma
+    given-names: Yuping
+  - family-names: Jiang
+    given-names: Ying
+  - family-names: Ma
+    given-names: Hongbin

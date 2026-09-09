@@ -1,0 +1,262 @@
+{
+  "selection_rule": "Deterministic, outcome-independent: minimum formal-test seed per platform; ellipse; current 0. search_1 transfer strategy: all four methods and all three models. factorial: both backgrounds, both models and all four module configurations. Deduplicate by job_id.",
+  "formal": [
+    {
+      "record": "campaign/data/search_1/test/jobs/400cd9aeba442d23708dec0d9d28.json",
+      "trace": "campaign/data/search_1/test/traces/400cd9aeba442d23708dec0d9d28.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/e001f3afcf4d8e0a360b08ee61a9.json",
+      "trace": "campaign/data/search_1/test/traces/e001f3afcf4d8e0a360b08ee61a9.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/afd89fb3a4aa161328b9940bc2bd.json",
+      "trace": "campaign/data/search_1/test/traces/afd89fb3a4aa161328b9940bc2bd.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/4960037f34722225120caff8e272.json",
+      "trace": "campaign/data/search_1/test/traces/4960037f34722225120caff8e272.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/042fcb440a7e9d0254f89afe5fc6.json",
+      "trace": "campaign/data/search_1/test/traces/042fcb440a7e9d0254f89afe5fc6.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/01264f0d3b97204d466f020767ee.json",
+      "trace": "campaign/data/search_1/test/traces/01264f0d3b97204d466f020767ee.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/5eb9e55aa4ea45d4e2b87f61e1a0.json",
+      "trace": "campaign/data/search_1/test/traces/5eb9e55aa4ea45d4e2b87f61e1a0.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/c98dc4321e3d36d71b85166fdf65.json",
+      "trace": "campaign/data/search_1/test/traces/c98dc4321e3d36d71b85166fdf65.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/8e8832c5fe469801237613a92693.json",
+      "trace": "campaign/data/search_1/test/traces/8e8832c5fe469801237613a92693.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/12ed03147b6d6c7af51fe9c6100c.json",
+      "trace": "campaign/data/search_1/test/traces/12ed03147b6d6c7af51fe9c6100c.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/14bf96a17216cdba5aaf6fc93332.json",
+      "trace": "campaign/data/search_1/test/traces/14bf96a17216cdba5aaf6fc93332.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/bb9abbe827ae3e2e2bc426028168.json",
+      "trace": "campaign/data/search_1/test/traces/bb9abbe827ae3e2e2bc426028168.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/06f1d5f64b961a1cc2f95c6d11fd.json",
+      "trace": "campaign/data/search_1/test/traces/06f1d5f64b961a1cc2f95c6d11fd.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/4476825cb43bae6bdbb6377231ec.json",
+      "trace": "campaign/data/search_1/test/traces/4476825cb43bae6bdbb6377231ec.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/a19b4fc967b274618122d7b1e614.json",
+      "trace": "campaign/data/search_1/test/traces/a19b4fc967b274618122d7b1e614.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/01b0c7b3a324f8df59be585699a7.json",
+      "trace": "campaign/data/search_1/test/traces/01b0c7b3a324f8df59be585699a7.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/1c35cd2db5e28b819c3d42e3e2d5.json",
+      "trace": "campaign/data/search_1/test/traces/1c35cd2db5e28b819c3d42e3e2d5.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/72142c0c21497a3200e0e0c23c3f.json",
+      "trace": "campaign/data/search_1/test/traces/72142c0c21497a3200e0e0c23c3f.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/b3eb4ee2c3df35aafc37f48d1844.json",
+      "trace": "campaign/data/search_1/test/traces/b3eb4ee2c3df35aafc37f48d1844.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/27c568958ccbde1265e542a2c904.json",
+      "trace": "campaign/data/search_1/test/traces/27c568958ccbde1265e542a2c904.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/a8ba66351186c067c7664cc60685.json",
+      "trace": "campaign/data/search_1/test/traces/a8ba66351186c067c7664cc60685.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/667c45f30f2472f1877dfca3ae8f.json",
+      "trace": "campaign/data/search_1/test/traces/667c45f30f2472f1877dfca3ae8f.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/7f4bf957dedc75ad36a96f0dbdaf.json",
+      "trace": "campaign/data/search_1/test/traces/7f4bf957dedc75ad36a96f0dbdaf.npz"
+    },
+    {
+      "record": "campaign/data/search_1/test/jobs/2fd41054b53ec89a8cdca5d7b8ed.json",
+      "trace": "campaign/data/search_1/test/traces/2fd41054b53ec89a8cdca5d7b8ed.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/c85efdda6f5acaaf2040e8227db3.json",
+      "trace": "campaign/data/factorial/test/traces/c85efdda6f5acaaf2040e8227db3.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/5ff0f9e5811ddd73dfb30561a49d.json",
+      "trace": "campaign/data/factorial/test/traces/5ff0f9e5811ddd73dfb30561a49d.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/6da8a63a75e71b6ac8a5693b2fb8.json",
+      "trace": "campaign/data/factorial/test/traces/6da8a63a75e71b6ac8a5693b2fb8.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/af1526ef11f84982bdea0c82b1cf.json",
+      "trace": "campaign/data/factorial/test/traces/af1526ef11f84982bdea0c82b1cf.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/2b069d90ab624e1c80d104d9d561.json",
+      "trace": "campaign/data/factorial/test/traces/2b069d90ab624e1c80d104d9d561.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/ad4600e2925b531d862f5c1412fa.json",
+      "trace": "campaign/data/factorial/test/traces/ad4600e2925b531d862f5c1412fa.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/a5e8020051051eb14e805f15acdb.json",
+      "trace": "campaign/data/factorial/test/traces/a5e8020051051eb14e805f15acdb.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/02c7fcb4697305f357c1c4c5b96f.json",
+      "trace": "campaign/data/factorial/test/traces/02c7fcb4697305f357c1c4c5b96f.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/ccff60ed49f91005b54359d0c3c7.json",
+      "trace": "campaign/data/factorial/test/traces/ccff60ed49f91005b54359d0c3c7.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/41b70e076418e96692dbcdfb38c6.json",
+      "trace": "campaign/data/factorial/test/traces/41b70e076418e96692dbcdfb38c6.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/a92f5eb05c73c40cceebe87c0995.json",
+      "trace": "campaign/data/factorial/test/traces/a92f5eb05c73c40cceebe87c0995.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/dc2c1f63d90fb4b9132f03d16119.json",
+      "trace": "campaign/data/factorial/test/traces/dc2c1f63d90fb4b9132f03d16119.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/13f69aeef9810375c748659b0979.json",
+      "trace": "campaign/data/factorial/test/traces/13f69aeef9810375c748659b0979.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/4fab9124abcdfe45c6274b2853f2.json",
+      "trace": "campaign/data/factorial/test/traces/4fab9124abcdfe45c6274b2853f2.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/41334cdda2bf9e149041dd078239.json",
+      "trace": "campaign/data/factorial/test/traces/41334cdda2bf9e149041dd078239.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/8f9591ca04ac92f23a25ee8981c3.json",
+      "trace": "campaign/data/factorial/test/traces/8f9591ca04ac92f23a25ee8981c3.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/27ba0371b68752681b48061c5a65.json",
+      "trace": "campaign/data/factorial/test/traces/27ba0371b68752681b48061c5a65.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/bd281fe5e828fd417b2dec9ede53.json",
+      "trace": "campaign/data/factorial/test/traces/bd281fe5e828fd417b2dec9ede53.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/e064823d785d00b97437cd38ea61.json",
+      "trace": "campaign/data/factorial/test/traces/e064823d785d00b97437cd38ea61.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/6b5687a5663ff4c17633f4a41fc6.json",
+      "trace": "campaign/data/factorial/test/traces/6b5687a5663ff4c17633f4a41fc6.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/414f0bacf38a623a81f789926453.json",
+      "trace": "campaign/data/factorial/test/traces/414f0bacf38a623a81f789926453.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/aa46bb87d8660f5d9010264af73b.json",
+      "trace": "campaign/data/factorial/test/traces/aa46bb87d8660f5d9010264af73b.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/b481112a7c5195e5b45e7d0e6d38.json",
+      "trace": "campaign/data/factorial/test/traces/b481112a7c5195e5b45e7d0e6d38.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/e0fdb0d62aac1b6a273eecc63527.json",
+      "trace": "campaign/data/factorial/test/traces/e0fdb0d62aac1b6a273eecc63527.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/687c5577eb0ef61cbab6ad1e8d57.json",
+      "trace": "campaign/data/factorial/test/traces/687c5577eb0ef61cbab6ad1e8d57.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/b52e606e2c7ad7441bfe70828f6c.json",
+      "trace": "campaign/data/factorial/test/traces/b52e606e2c7ad7441bfe70828f6c.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/e346fc05028c19fb90dbf692dfdf.json",
+      "trace": "campaign/data/factorial/test/traces/e346fc05028c19fb90dbf692dfdf.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/2d7487f973fa9435a72bda45f971.json",
+      "trace": "campaign/data/factorial/test/traces/2d7487f973fa9435a72bda45f971.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/15e89019235b930f3783997e2fa0.json",
+      "trace": "campaign/data/factorial/test/traces/15e89019235b930f3783997e2fa0.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/0f7d1173b94e7d7014faa044db0f.json",
+      "trace": "campaign/data/factorial/test/traces/0f7d1173b94e7d7014faa044db0f.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/c1a8d5e5dfc6cba9c7887b8bbb25.json",
+      "trace": "campaign/data/factorial/test/traces/c1a8d5e5dfc6cba9c7887b8bbb25.npz"
+    },
+    {
+      "record": "campaign/data/factorial/test/jobs/d26b7f47df21ca79894fffdc35c6.json",
+      "trace": "campaign/data/factorial/test/traces/d26b7f47df21ca79894fffdc35c6.npz"
+    }
+  ],
+  "numerical": [
+    {
+      "record": "campaign/data/search_2/numerical/99417932b6c0ff103498ac66.json",
+      "arrays": [
+        "campaign/data/search_2/numerical/99417932b6c0ff103498ac66_h0.00125000.npz",
+        "campaign/data/search_2/numerical/99417932b6c0ff103498ac66_h0.00250000.npz",
+        "campaign/data/search_2/numerical/99417932b6c0ff103498ac66_h0.00500000.npz",
+        "campaign/data/search_2/numerical/99417932b6c0ff103498ac66_h0.01000000.npz",
+        "campaign/data/search_2/numerical/99417932b6c0ff103498ac66_reference.npz"
+      ]
+    },
+    {
+      "record": "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd.json",
+      "arrays": [
+        "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd_h0.00125000.npz",
+        "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd_h0.00250000.npz",
+        "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd_h0.00500000.npz",
+        "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd_h0.01000000.npz",
+        "campaign/data/search_2/numerical/705c944ef11a47c4b375f9bd_reference.npz"
+      ]
+    },
+    {
+      "record": "campaign/data/search_3/numerical/7c5482278e00870578eed59b.json",
+      "arrays": [
+        "campaign/data/search_3/numerical/7c5482278e00870578eed59b_h0.00125000.npz",
+        "campaign/data/search_3/numerical/7c5482278e00870578eed59b_h0.00250000.npz",
+        "campaign/data/search_3/numerical/7c5482278e00870578eed59b_h0.00500000.npz",
+        "campaign/data/search_3/numerical/7c5482278e00870578eed59b_h0.01000000.npz",
+        "campaign/data/search_3/numerical/7c5482278e00870578eed59b_reference.npz"
+      ]
+    }
+  ],
+  "limits": "56 deterministic formal examples plus all stored arrays for the three RISE production-step limitations; not a random or complete raw-data sample."
+}
