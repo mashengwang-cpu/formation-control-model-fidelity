@@ -1,4 +1,4 @@
-# Controller rankings and module benefits in heterogeneous formation control: Actuation models and equal-budget tuning
+# Effects of actuation models and retuning on controller rankings in heterogeneous vehicle formation control
 
 **Authors:** Fuliang Ma¹, Yuzhen Dang¹, Yuping Ma², Ying Jiang¹, Hongbin Ma².
 
@@ -8,9 +8,9 @@ Corresponding author: Yuzhen Dang (dyzivy@qhu.edu.cn).
 
 ## Abstract
 
-Comparisons of formation controllers depend on the vehicle model and the parameters selected for it. We cross three model layers with parameter-selection strategy on an eight-vehicle aerial–surface platform and an independent four-vessel Otter model. Three modular controllers and a sampled distributed robust integral of the sign of the error (RISE) controller receive equal evaluation budgets. Three independent searches each allocate 2,880 development evaluations per method and platform, followed by 50 held-out seed blocks per platform. Twelve paired contrasts per search receive simultaneous bootstrap intervals. A separate factorial experiment crosses two module switches with two frozen parameter backgrounds. Across the three searches, the native Full-minus-Minimal complete-minus-point error interaction ranges from -0.177 to 1.290 m under point-selected transfer, but from 0.00073 to 0.00198 m after model-specific retuning. The retuned Otter interaction remains positive, ranging from 0.267 to 0.469 m. On the complete native model, deleting the gain schedule changes mean error by -0.7224 m under point-selected parameters and +0.00485 m under complete-model-selected parameters; signed-power deletion also changes sign. All 33,900 repeated-search and 9,600 factorial test executions have finite endpoints. Of 1,740 numerical checks, three RISE conditions fail at the production step and pass after refinement. The comparisons vary with the search, and module effects depend on the parameter background; neither supports a universal controller ordering. Three searches provide limited evidence about search variability. Unresolved source-condition reconstruction, stress diagnostics and software-in-the-loop failures further limit the computational conclusions.
+Controller rankings in heterogeneous formation control depend on how vehicle dynamics and parameter selection are represented. We test these dependencies in an eight-vehicle aerial–surface simulation and an independent four-vessel Otter model. Three modular controllers and a sampled robust integral of the sign of the error (RISE) controller receive equal development budgets across three model layers. Three independent searches each use 2,880 evaluations per method and platform, followed by 50 held-out seed blocks. Twelve paired contrasts per search receive simultaneous bootstrap intervals. A separate factorial experiment crosses two module switches with two frozen parameter backgrounds. Across searches, the complete-minus-point model interaction in the Full-minus-Minimal tracking-error difference ranges from -0.177 to 1.290 m under point-selected parameter transfer, but from 0.00073 to 0.00198 m after model-specific retuning. The corresponding retuned Otter interaction remains positive at 0.267–0.469 m. On the complete native model, gain-schedule deletion changes mean error by -0.7224 m under point-selected parameters and +0.00485 m under complete-model-selected parameters; signed-power deletion also changes sign. These results show that module benefits must be interpreted under their parameter background, and that model transfer and retuning can lead to different comparisons. Three RISE production-step conditions remain numerically unqualified despite passing after refinement. The conclusions apply to the specified computational designs; three searches provide limited evidence about search variability, and neither physical-vehicle validity nor a universal controller ordering is established.
 
-## Complete compact reproduction release — 9 September 2026
+## JBSMSE reproduction edition — 15 September 2026
 
 [中文说明](README_zh-CN.md) · [Data coverage](DATA_COVERAGE.md) · [Validation](VALIDATION.md) · [Licenses](LICENSES.md)
 
@@ -26,6 +26,12 @@ additional Section S15 analyses, all records from the three independent searches
 and crossed module experiment, and the latest figure source tables. It also adds
 71 original, losslessly preserved NPZ arrays. These are deterministic examples
 and numerical-limit diagnostics, not all raw trajectories.
+
+## Current article figures
+
+The current article is titled **Effects of actuation models and retuning on controller rankings in heterogeneous vehicle formation control**. The journal-specific figure files and figure numbering are supplied in [Journal_figure_reproduction.zip](Journal_figure_reproduction.zip). Extract this archive into a separate directory, retain its subdirectories, install the dependencies in `baseline/requirements.txt`, and run `python -B generate_jbsmse_artwork.py` there. This reproduces the 16 main and supplementary figures from frozen inputs; it does not launch simulations or refit statistics. See [article identification and usage](READ_ME_FIRST_JBSMSE.md).
+
+The existing `baseline-figures` and `latest-figures` commands retain the earlier edition's layout and numbering. The previews at the bottom of this page also belong to that earlier edition. Use the journal-specific archive for figures matching the current manuscript. Experimental records and statistical estimates are unchanged. `SHA256SUMS.json` covers the current repository files and the added archive; `JBSMSE_SHA256.json` separately verifies the figure archive and article identification file.
 
 ## Install
 

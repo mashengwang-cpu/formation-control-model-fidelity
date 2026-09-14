@@ -1,4 +1,4 @@
-# Online Resource 2
+# JBSMSE article and reproduction files
 
 Article: Effects of actuation models and retuning on controller rankings in heterogeneous vehicle formation control
 
@@ -8,8 +8,8 @@ Authors: Fuliang Ma; Yuzhen Dang; Yuping Ma; Ying Jiang; Hongbin Ma
 
 Affiliations: Qinghai University, Xining 810016, Qinghai, China (Fuliang Ma, Yuzhen Dang, Ying Jiang); China Mobile Group Qinghai Co., Ltd., Xining 810001, Qinghai, China (Yuping Ma, Hongbin Ma).
 
-Corresponding author: Yuzhen Dang, Qinghai University; dyzivy@qhu.edu.cn
+Corresponding author: Yuzhen Dang; dyzivy@qhu.edu.cn
 
-The formation-control-repro directory retains the versioned repository contents. Its README records the title used by that repository version. The article title for this submission is specified above. Journal_figure_reproduction.zip supplies the figure sources, frozen plotting inputs and size-specific rendering script used for this article. Run python -B generate_jbsmse_artwork.py after installing the dependencies documented in baseline/requirements.txt. The script reads frozen tables; it does not rerun experiments or refit statistics.
+The repository root provides the compact experimental reproduction interface. Journal_figure_reproduction.zip provides the current article's 16 figures, using frozen plotting inputs and the journal-specific rendering script. Extract it into a separate directory, retain its directory structure, install baseline/requirements.txt, and run python -B generate_jbsmse_artwork.py from the extracted directory. It reads frozen tables; it does not rerun experiments or refit statistics. Earlier payload archives and preview images retain their original edition's titles and numbering.
 
-This compact resource does not include the complete dense trajectories or original PX4 logs. Coverage and third-party attribution are documented in the repository files. Original code: MIT; original data and figures: CC BY 4.0; third-party licenses remain applicable.
+The compact release does not include the complete dense trajectories or original PX4 logs. See DATA_COVERAGE.md for coverage and limits. Original code is MIT; original data and figures are CC BY 4.0; third-party licenses remain applicable. These files do not claim acceptance by the journal or physical-vehicle validation.
